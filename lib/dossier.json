@@ -1,0 +1,342 @@
+[
+  {
+    "Code": "VOL00008",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Lokerenveldstraat",
+    "HouseNumber": "4",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": true
+  },
+  {
+    "Code": "VOL00009",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Lokerenveldstraat",
+    "HouseNumber": "17",
+    "PostalCode": "9320",
+    "City": "EREMBODEGEM",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00010",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Lokerenveldstraat",
+    "HouseNumber": "19",
+    "PostalCode": "9320",
+    "City": "EREMBODEGEM",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00015",
+    "BuildingTypeId": "3",
+    "BuildingTypeDescription": "Gebouw met meerdere entiteiten",
+    "Street": "Sint Jobstraat",
+    "HouseNumber": "20",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00025",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Windmolenstraat",
+    "HouseNumber": "21",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00055",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Bergemeersenstraat",
+    "HouseNumber": "36",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00063",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Roland Monteynestraat",
+    "HouseNumber": "29",
+    "PostalCode": "9308",
+    "City": "Gijzegem",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00110",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Beekveldstraat",
+    "HouseNumber": "21",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00122",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Capucienenlaan",
+    "HouseNumber": "82",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00132",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Diepestraat",
+    "HouseNumber": "1A",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00193",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Damstraat",
+    "HouseNumber": "27",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00217",
+    "BuildingTypeId": "5",
+    "BuildingTypeDescription": "Zelfstandig gebouw met niet-woonfunctie",
+    "Street": "Geraardsbergsestraat",
+    "HouseNumber": "127",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": true
+  },
+  {
+    "Code": "VOL00230",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Hogeweg",
+    "HouseNumber": "87",
+    "PostalCode": "9320",
+    "City": "EREMBODEGEM",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00264",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Koolstraat",
+    "HouseNumber": "1",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00271",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Maanstraat",
+    "HouseNumber": "1",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00378",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Melkspinde",
+    "HouseNumber": "51",
+    "PostalCode": "9310",
+    "City": "BAARDEGEM",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00425",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Felix de Hertstraat",
+    "HouseNumber": "45",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": true
+  },
+  {
+    "Code": "VOL00428",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Louis Paul Boonstraat",
+    "HouseNumber": "40",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00437",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Zonnestraat",
+    "HouseNumber": "5",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL00480",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Sint Kamielstraat",
+    "HouseNumber": "24",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10004",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Kraaiwinkelstraat",
+    "HouseNumber": "38",
+    "PostalCode": "9320",
+    "City": "NIEUWERKERKEN",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10005",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Kraaiwinkelstraat",
+    "HouseNumber": "41",
+    "PostalCode": "9320",
+    "City": "NIEUWERKERKEN",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10006",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Kraaiwinkelstraat",
+    "HouseNumber": "41 A",
+    "PostalCode": "9320",
+    "City": "NIEUWERKERKEN",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10009",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Ravenakkerstraat",
+    "HouseNumber": "24",
+    "PostalCode": "9310",
+    "City": "MOORSEL",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10081",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Resschebeke",
+    "HouseNumber": "37",
+    "PostalCode": "9320",
+    "City": "EREMBODEGEM",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10125",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Korte Binnenstraat",
+    "HouseNumber": "15",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10130",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Brusselbaan",
+    "HouseNumber": "16",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10148",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Botermelkstraat",
+    "HouseNumber": "76",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10150",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Moorselbaan",
+    "HouseNumber": "217",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10155",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Ledebaan",
+    "HouseNumber": "56",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10165",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Moorselbaan",
+    "HouseNumber": "165/11",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10176",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Moorselbaan",
+    "HouseNumber": "8",
+    "PostalCode": "9300",
+    "City": "AALST",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10182",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Korte Zoutstraat",
+    "HouseNumber": "12",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  },
+  {
+    "Code": "VOL10322",
+    "BuildingTypeId": "4",
+    "BuildingTypeDescription": "Zelfstandige woning",
+    "Street": "Hoveniersstraat",
+    "HouseNumber": "84",
+    "PostalCode": "9300",
+    "City": "Aalst",
+    "IsInventoryUnoccupiedNotRemoved": false
+  }
+]
