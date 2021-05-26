@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:poc_flutter/DossierList.dart';
+import 'package:poc_flutter/dossier-list.dart';
 
-import 'detail.dart';
+import 'dossier-detail.dart';
 
 void main() {
   runApp(MyApp());
